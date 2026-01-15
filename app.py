@@ -30,4 +30,4 @@ elif page == "🎥 Real-Time Recognition":
 
 # --- Footer ---
 st.markdown("---")
-st.markdown("<center>Made with ❤️ by Sakshi Jadhav | © 2025</center>", unsafe_allow_html=True)
+st.markdown("<center>Made with ❤️ by Sakshi Jadhav and Rutuja Maske | © 2025</center>", unsafe_allow_html=True)
